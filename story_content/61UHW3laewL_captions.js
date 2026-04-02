@@ -1,0 +1,1 @@
+window.globalLoadJsAsset('story_content/61UHW3laewL_captions.js', {"captions":[{"langCode":"en-US","data":"WEBVTT%0D%0A%0D%0ANOTE%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.113.36519.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:01.361%0D%0AHow%20do%20you%20open%20your%20response?%0D%0A%0D%0A"}]})
